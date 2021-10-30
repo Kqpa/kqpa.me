@@ -1,0 +1,11 @@
+.cmd,
+div {
+  --color: rgba(0, 128, 0, 0.99);
+}
+
+.terminal,
+span {
+  --size: 1.4;
+  --animation: terminal-bar;
+  --word-wrap: break-word;
+}
