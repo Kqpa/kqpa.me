@@ -1,11 +1,16 @@
-.cmd,
-div {
-  --color: rgba(0, 128, 0, 0.99);
+:root {
+  --background: #121212; 
+  --color: #046604; 
 }
 
-.terminal,
-span {
-  --size: 1.4;
-  --animation: terminal-bar;
-  --word-wrap: break-word;
+@media (min-width: 800px) {
+    :root {
+        --size: 1.2;
+    }
+}
+
+@media (min-width: 1200px) {
+    :root {
+        --size: 1.4;
+    }
 }
