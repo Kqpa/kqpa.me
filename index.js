@@ -26,7 +26,7 @@ $("body").terminal(
         "\n" +
           "PM me on Twitter ─ @epicmanborax \n\n" +
           "Mail ─ kqpa@pm.me \n\n" +
-          "Discord ─ Kqpa#8176 \n\n"
+          "Discord ─ Kqpa#0001 \n\n"
       );
     },
 
