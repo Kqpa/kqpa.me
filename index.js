@@ -26,7 +26,7 @@ $("body").terminal(
         "\n" +
           "PM me on Twitter ─ @epicmanborax \n\n" +
           "Mail ─ kqpa@pm.me \n\n" +
-          "Discord ─ Kqpa#0001 \n\n"
+          "Discord ─ Kqpa#0001 (ID: 419181431512891413) \n\n"
       );
     },
 
@@ -36,7 +36,7 @@ $("body").terminal(
           "$ whoami ➙ About me. \n\n" +
           "$ socials ➙ Places that you can find me on. \n\n" +
           "$ contact ➙ Ways to reach me. \n\n" +
-          "$ clear ➙ Clear the terminal outputs. \n"
+          "$ clear ➙ Clear outputs. \n"
       );
     },
   },
