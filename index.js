@@ -11,13 +11,10 @@ $("body").terminal(
     socials: function () {
       this.echo(
         "\n" +
-          "GitHub ─ Kqpa \n\n" +
-          "GitLab ─ Kqpa \n\n" +
-          "YouTube ─ Kqpa \n\n" +
-          "Twitter ─ @epicmanborax \n\n" +
-          "Reddit ─ Kqpa \n\n" +
-          "Twitch ─ kqpa \n\n" +
-          "Steam ─ Kqpa \n"
+          "GitHub ─ http://github.com/Kqpa \n\n" +
+          "Twitter ─ https://twitter.com/epicmanborax \n\n" +
+          "Reddit ─ https://reddit.com/u/Kqpa \n\n" +
+          "Steam ─ https://steamcommunity.com/id/kqpa_ \n"
       );
     },
 
