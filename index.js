@@ -16,8 +16,8 @@ $("body").terminal
           " playing tennis since I was 5 years old and I've been recieving music\n" +
           " education since the age of 3. I've participated in multiple piano \n" +
           " competitions in the past and gave multiple concerts. This is just a\n" +
-          " brief introduction to me, if wish to talk to me or know more about me\n" +
-          " you're more than welcome to contact me.\n"
+          " brief introduction to me, if you wish to talk to me or know more about\n" +
+          " me, you're more than welcome to contact me.\n"
       );
     },
 
