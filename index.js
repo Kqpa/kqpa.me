@@ -11,13 +11,9 @@ $("body").terminal
           " ]\n" +
           " Hi, I'm Kqpa. An avid technology enthusiast and a software developer.\n" +
           " I'm currently knowledgeable in Python, C/C++, *NIX Operating Systems \n" +
-          " and varios other technologies. I love exploring new technologies and\n" +
-          " tinkering with hardware and software. Other than technology, I've been\n" +
-          " playing tennis since I was 5 years old and I've been recieving music\n" +
-          " education since the age of 3. I've participated in multiple piano \n" +
-          " competitions in the past and gave multiple concerts. This is just a\n" +
-          " brief introduction to me, if you wish to talk to me or know more about\n" +
-          " me, you're more than welcome to contact me.\n"
+          " and varios other technologies. I'm a Linux enthusiast and I love \n" +
+          " tinkering with hardware and software. If you'd like to talk or know \n" +
+          " more about me, you're more than welcome to contact me.\n"
       );
     },
 
@@ -67,6 +63,6 @@ $("body").terminal
   
   {
     greetings:  "Welcome to my personal website, run 'help' for a list of commands.\n",
-    prompt:     "[guest[[b;grey;]@]kqpa.me]$ ",
+    prompt:     "[guest[[b;grey;]@]kqpa.me ~]$ ",
   }
 );

@@ -7,11 +7,13 @@
 @media (min-width: 800px) {
     :root {
         --size: 1.2;
+        --font: "Jetbrains Mono";
     }
 }
 
 @media (min-width: 1200px) {
     :root {
-        --size: 1.4;
+        --size: 1.5;
+        --font: "Jetbrains Mono";
     }
 }
