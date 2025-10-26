@@ -9,10 +9,9 @@ $("body").terminal
           " About Me\n" +
           " ————————\n" +
           " ]\n" +
-          " Hi, I'm Kqpa. An avid technology enthusiast and a software developer.\n" +
-          " I'm currently knowledgeable in Python, C/C++, *NIX Operating Systems \n" +
-          " and varios other technologies. I'm a Linux enthusiast and I love \n" +
-          " tinkering with hardware and software. If you'd like to talk or know \n" +
+          " Hi, I'm Kqpa. An avid maths and computer science enthusiast.\n" +
+          " I'm currently knowledgeable in Python, Java, C/C++, *NIX Operating Systems, \n" +
+          " and varios other technologies. If you'd like to talk or know \n" +
           " more about me, you're more than welcome to contact me.\n"
       );
     },
@@ -41,7 +40,7 @@ $("body").terminal
           " ————————\n" +
           " ]\n" +
           " Mail     |   kqpa@pm.me\n" +
-          " Discord  |   Kqpa#0001 [ID: 419181431512891413]\n"
+          " Discord  |   Kqpa [ID: 419181431512891413]\n"
       );
     },
 
